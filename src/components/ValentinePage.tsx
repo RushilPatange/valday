@@ -170,7 +170,7 @@ const ValentinePage = () => {
             Can't wait to be your Valentine! I love you :) - bungoo #2 🥰
           </p>
           <p className="text-muted-foreground mt-2 text-sm">
-            You made the right choice 💘
+            Wu Chow on Feb 14th at 9:30pm. I'll pick you up
           </p>
         </div>
       </div>
