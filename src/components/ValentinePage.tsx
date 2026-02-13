@@ -10,13 +10,13 @@ const IMAGES = Array.from({ length: 12 }, (_, i) =>
 );
 
 const NO_MESSAGES = [
-  "Are you sure? 🥺",
-  "Really really sure?",
-  "What if I ask reaaally nicely? 🙏",
-  "I brought you chocolate… 🍫",
-  "Okay, that one stung a little 😭",
-  "Plot twist: you actually meant yes.",
-  "Don't do this to me 😩",
+  "NO?? Rude✋",
+  "So you hate me",
+  "Do I need to remind you of good times?",
+  "I can bring you lindor chocolate! 🍫",
+  "GINDUUUUU why are you like this",
+  "Fine here are my favorite photos of you",
+  "I can't believe you won't be my valentine",
   "I'm running out of moves here…",
   "Last chance before the button gets… suspicious 👀",
   "Alright. You asked for it. 🏃‍♂️",
@@ -25,18 +25,18 @@ const NO_MESSAGES = [
 ];
 
 const CAPTIONS = [
-  "Give us a chance? 💕",
-  "Pretty please? 🌸",
-  "Look how cute we are! 🥰",
-  "C'mon, you know you want to 😼",
-  "This is getting dramatic… 🎭",
-  "I won't give up! 💪",
-  "My heart is literally right here ❤️",
-  "Even the penguins are rooting for us 🐧",
-  "I'll share my snacks, promise 🍿",
-  "The universe ships us ✨",
-  "Catch me if you can! 🏃",
-  "We'd be the cutest couple 💖",
+  "April 25th 2025 - Loved you taking me to the barge formal",
+  "January 25th 2025 - Walk of Shame outfit 🤌",
+  "May 5th 2025 - Offically dating! ❤️",
+  "April 17th 2025 - Eyebrow Salon",
+  "Jan 24th 2026 - Snowed in with the gyattos",
+  "January 25th 2026 - The gyattos themselves",
+  "July 19th 2025 - Cosplaying a raccoon",
+  "August 30th 2025 - The Weekend fit",
+  "December 19th 2025 - No flex zone",
+  "Feburary 7th 2026 - High chair activites",
+  "Spetember 28th 2025 - My absolute favorite girl in the world ❤️",
+  "I love you :) - bungoo #2",
 ];
 
 const RUNAWAY_THRESHOLD = 10;
@@ -166,7 +166,7 @@ const ValentinePage = () => {
             />
           </div>
           <p className="text-lg sm:text-xl font-body font-semibold text-foreground">
-            Can't wait to be your Valentine! 🥰
+            Can't wait to be your Valentine! I love you :) - bungoo #2 🥰
           </p>
           <p className="text-muted-foreground mt-2 text-sm">
             You made the right choice 💘
