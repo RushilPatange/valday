@@ -6,7 +6,8 @@ import confetti from "canvas-confetti";
  * ────────────────────────────────────────────── */
 
 const IMAGES = Array.from({ length: 12 }, (_, i) =>
-  `/images/image${String(i + 1).padStart(2, "0")}.jpg`
+  // We added import.meta.env.BASE_URL so it knows to look inside the /valday/ folder!
+  `${import.meta.env.BASE_URL}images/image${String(i + 1).padStart(2, "0")}.jpg`
 );
 
 const NO_MESSAGES = [
